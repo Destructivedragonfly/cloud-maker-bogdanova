@@ -20,7 +20,6 @@
 ```bash
 chmod +x setup.sh test.sh
 sudo ./setup.sh
-sudo apt-get install -y jq
 ```
 
 ## Запуск
@@ -49,6 +48,8 @@ sudo ./test.sh
 == Итог: 22 PASS, 0 FAIL ==
 OK
 ```
+
+![test_done](images/test_done.png)
 
 ## Ручная проверка API
 
